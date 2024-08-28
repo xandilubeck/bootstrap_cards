@@ -1,0 +1,35 @@
+@media screen and (max-width: 767px){
+    #carousel-topo img {
+        width: 95%;
+        margin: 12px auto;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    #carousel-topo img {
+        width: 97%;
+        margin: 12px auto;
+    }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1290px) {
+    #carousel-topo img {
+        margin: 12px 150px;
+        
+    }
+}
+
+@media screen and (min-width: 1291px) {
+    #carousel-topo img {
+        margin: 12px 200px;
+    }
+}
+
+.container p {
+    text-align: justify;
+}
+
+footer p {
+    margin-top: 30px;
+    text-align: center;
+}
